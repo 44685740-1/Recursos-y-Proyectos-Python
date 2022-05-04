@@ -1,0 +1,25 @@
+Date: 27/11/2021
+Time: 19:22
+Phone Number: +1122357764
+Message: hola esto es un mensaje de prueba en python
+--------------------
+Date: 27/11/2021
+Time: 19:26
+Phone Number: +549111122357764
+Message: hola esto es un mensaje de prueba en python
+--------------------
+Date: 27/11/2021
+Time: 19:28
+Phone Number: +5491122357764
+Message: hola esto es un mensaje de prueba en python
+--------------------
+Date: 27/11/2021
+Time: 20:0
+Group ID: https://chat.whatsapp.com/L27icpqAqEDBPlRpLu2bGa
+Message: ¡Hola a todos!
+--------------------
+Date: 27/11/2021
+Time: 20:16
+Group ID: DAmuX5gmCb8L2oCgxJbPzj
+Message: ¡Hola a todos!
+--------------------
